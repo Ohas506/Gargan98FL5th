@@ -9,7 +9,7 @@ e = campaignTrail_temp;
             $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
 
             $(".container")[0].style.backgroundColor = "#0042aa";
-
+ 
             document.getElementById("header").src = "https://i.imgur.com/OvW9a2I.png";
 
             document.body.background = "https://i.imgur.com/R4tPybF.png";
